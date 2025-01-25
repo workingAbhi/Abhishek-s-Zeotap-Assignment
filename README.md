@@ -18,7 +18,8 @@ Please explore the code, visualizations, and findings. If you have any questions
 ├── Abhishek_Kumar_EDA.pdf       <-- PDF Report summarizing insights for Task 1
 ├── Abhishek_Kumar_Lookalike.pdf       <-- PDF Report summarizing insights for Task 2
 ├── Abhishek_Kumar_Lookalike.ipynb
-├── Abhishek_Kumar_Lookalike.csv <-- Output from Lookalike Model for first 20 customers
+├── Abhishek_Kumar_Lookalike.csv  <-- Output from Lookalike Model for first 20 customers
+├── Abhishek_Kumar_Lookalike_Before_Formatting.csv <-- Output from Lookalike Model for first 20 customers Before Formatting
 ├── Abhishek_Kumar_Clustering.ipynb
 ├── Abhishek_Kumar_Clustering.pdf
 ├── Customers.csv                    <-- Provided dataset
