@@ -81,6 +81,8 @@ Please explore the code, visualizations, and findings. If you have any questions
 2. **Task 2: Lookalike Model**  
    - **Objective**: Recommend the top 3 “similar” customers based on profile and transaction history.  
    - **Deliverables**: `Lookalike.ipynb` (model code), `Lookalike.csv` (results for C0001–C0020).
+   - **Saving Lookalike.csv**: As the assignment specifies : Form a “Lookalike.csv” which has just one map: Map<cust_id, List<cust_id, score>>.
+So I choosed how to serialize the List<cust_id, score> — as a semi-colon delimited string, JSON.
 
 3. **Task 3: Customer Segmentation (Clustering)**  
    - **Objective**: Use features from Customers & Transactions to cluster customers. Evaluate with the **Davies-Bouldin Index** and visualize clusters.  
@@ -105,7 +107,6 @@ Please explore the code, visualizations, and findings. If you have any questions
 
 For questions, suggestions, or just an energetic conversation about data, feel free to reach out via:
 - **Email**: officialabhi2023@gmail.com 
-- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com/in/yourprofile)
 
 *(Disclaimer: If you find yourself feeling tingly about this project—fear not! It’s just the data love we share. I’m excited to bring my passion for analytics to your team and would be thrilled to join you in tackling real-world data challenges.)*
 
